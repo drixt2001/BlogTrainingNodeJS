@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "62bad9341a08cdb3e73f96b5"
+  },
+  "email": "thangdrit@gmail.com",
+  "category": "Đời Sống",
+  "title": "Cuộc sống của 1 Developer",
+  "description": "Developer thường làm gì trong 1 ngày, họ có vui tính không?",
+  "content": "Các lập trình viên code cả ngày, fix bug suốt đêm với hàng nghìn dòng code. Điều đó không có nghĩa họ chỉ biết và giỏi mỗi mình lập trình.\r\n\r\nHọ đều có khiếu hài hước có thể khiến tất cả chúng ta cười ngay cả khi chúng ta không phải là một lập trình viên.",
+  "status": "public",
+  "avatar": "https://d3hi6wehcrq5by.cloudfront.net/itnavi-blog/2020/09/Dev-l%C3%A0-ngh%E1%BB%81-g%C3%AC-1.jpg"
+},{
+  "_id": {
+    "$oid": "62bc3ca4499b447fa7fcf617"
+  },
+  "category": "Công Nghệ",
+  "title": "Wifi nhà bạn có thể bị \"dùng chùa\" trong vòng \"một nốt nhạc\" nếu không tắt thứ này đi",
+  "description": "Wifi nhà bạn có thể bị \"ăn cắp\" bất cứ lúc nào nếu như bạn phạm phải những lỗi bảo mật căn bản này.",
+  "content": "Các cài đặt bị thay đổi: Hầu hết các những kẻ gian hoạt động bằng cách lẻn vào hệ thống mạng và thay đổi cài đặt để tạo điều kiện cho việc khai thác. Kiểu tấn công này giúp kẻ gian có thể giám sát, kiểm soát hoặc chuyển hướng lưu lượng Internet. Ví dụ, nếu DNS trên router bị tấn công, khi truy cập vào trang web của ngân hàng để thực hiện giao dịch, bạn sẽ bị chuyển hướng đến trang web giả mạo. Từ đó thông tin ngân hàng quan trọng của bạn sẽ bị lộ.\r\n\r\nMạng dùng ngày càng chậm: Nếu như bạn thấy mình vẫn dùng một gói dung lượng như cũ nhưng mạng ngày càng chậm, khó vào, đôi khi bạn còn bị đẩy ra khỏi chính mạng của nhà mình. Thì lúc này bạn nên kiểm tra xem có kẻ lạ đang dùng chùa Wifi nhà bạn hay không nhé.",
+  "status": "public",
+  "avatar": "https://media.phunutoday.vn/files/content/2021/08/13/kiemtradentrenmodem-1327.jpg",
+  "__v": 0,
+  "email": "thangdrit@gmail.com"
+},{
+  "_id": {
+    "$oid": "62bc3df9499b447fa7fcf638"
+  },
+  "email": "admin@gmail.com",
+  "category": "Đời Sống",
+  "title": "Tôi bắt đầu sống những ngày sinh viên của cuộc đời mình",
+  "description": "Có lần tôi hỏi bạn mình rằng: “bình thường 1 tháng về nhà mấy lần?”",
+  "content": "“Tao không về được, nhà xa lắm, tết mới được về ...” Nhớ nhà mà không thể về …\r\n\r\nTôi im lặng cảm thấy mình vẫn may mắn vì chỉ cách nhà của mình 4 giờ đồng hồ nhưng nhiều khi say xe quá mẹ thấy tội nên bảo ở lại vì về tới nhà quay đi quẩn lại 2 ngày lại phải lên đi học … Nhớ lắm, nhưng lại thôi.",
+  "status": "public",
+  "avatar": "https://hufi.edu.vn/images/sinh-vien/giai-3-1.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62bc3e65499b447fa7fcf63b"
+  },
+  "email": "thangdrit@gmail.com",
+  "category": "Công Nghệ",
+  "title": "Hạnh phúc cho mọi người",
+  "description": "Có ai đó đã từng nói rằng: “Hạnh phúc là sự vắng mặt của những khổ đau.” Câu nói này có vẻ như thật dễ chấp nhận mà không gây ra bất cứ sự tranh cãi nào, bởi nó thể hiện một cách rõ ràng tính cách tương đối của cuộc sống mà không ai trong chúng ta lại không dễ dàng nhận thấy.",
+  "content": "Nhưng nếu nhìn sâu vào vấn đề, phát biểu nêu trên quả thật chẳng mang lại chút ý nghĩa tích cực nào, bởi nó hoàn toàn mang tính cách của một nhận xét bàng quan. Hơn thế nữa, nhận xét trên còn có thể xem là hết sức bi quan khi có vẻ như người nói đã mặc nhiên chấp nhận một sự thật không mong muốn. Từ cách nhìn này, người ta chỉ có thể mong đợi những phút giây gọi là hạnh phúc nhưng hoàn toàn không biết được chúng từ đâu đến hoặc có thể đạt được chúng như thế nào. Tuy nhiên, điều không may là tính chất tiêu cực và bi quan này lại dường như mô tả đúng với những gì đang diễn ra trong cuộc sống của hầu hết chúng ta.",
+  "status": "draft",
+  "avatar": "https://o.vdoc.vn/data/image/2021/05/26/ve-tranh-cuoc-song-sinh-hoat-vui-choi-so-6.jpg",
+  "__v": 0
+}]

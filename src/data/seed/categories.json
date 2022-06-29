@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "62b9d44e5a74514e9a3609a1"
+  },
+  "name": "Đời Sống",
+  "avatar": "https://api.time.com/wp-content/uploads/2014/03/improving-life-health-hiking-nature.jpg",
+  "slug": "doi-song"
+},{
+  "_id": {
+    "$oid": "62b9d4765a74514e9a3609a2"
+  },
+  "name": "Công Nghệ",
+  "avatar": "https://media.vneconomy.vn/w800/images/upload/2021/08/26/luat-cong-nghe-so.jpg",
+  "slug": "cong-nghe"
+}]
