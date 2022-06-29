@@ -1,5 +1,5 @@
-const Categories = require('../models/Categories');
-const Posts = require('../models/Posts');
+const Categories = require('../models/Category');
+const Posts = require('../models/Post');
 
 class CategoriesController {
   

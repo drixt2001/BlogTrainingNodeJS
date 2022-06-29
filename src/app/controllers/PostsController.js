@@ -1,5 +1,5 @@
-const Posts = require('../models/Posts');
-const Category = require('../models/Categories');
+const Posts = require('../models/Post');
+const Category = require('../models/Category');
 class PostsController {
   
   //GET /posts

@@ -25,10 +25,7 @@ app.set('views', './src/resources/views');
 
 
 app.use(morgan('combined'))
-// app.set('views', path.join(__dirname, 'resources'));
-
 app.use(methodOverride('_method'))
-
 
 //Route
 route(app);
