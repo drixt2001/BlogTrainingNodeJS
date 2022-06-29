@@ -1,0 +1,42 @@
+<form method="post" action="/posts/{{Posts._id}}?_method=PUT">
+    <div class="mb-3">
+      <label for="1" class="form-label">Email</label>
+      <input disabled value="{{Posts.email}}" name="email" type="email" class="form-control" id="1" placeholder="name@example.com">
+    </div>
+    <div class="mb-3">
+      <label for="2" class="form-label">Category</label>
+      <input disabled value="{{Posts.category}}" name="category" type="text" class="form-control" id="2" placeholder="Danh mục">
+    </div>
+    <div class="mb-3">
+      <label for="3" class="form-label">Title</label>
+      <input disabled value="{{Posts.title}}" name="title" type="text" class="form-control" id="3" placeholder="Tiêu đề">
+    </div>
+    <div class="mb-3">
+      <label for="4" class="form-label">Description</label>
+      <input disabled value="{{Posts.description}}" name="description" type="text" class="form-control" id="4" placeholder="Mô tả">
+    </div>
+    <div class="mb-3">
+      <label for="5" class="form-label">Content</label>
+      <textarea disabled name="content" class="form-control" id="5" rows="3">{{Posts.content}}</textarea>
+    </div>
+    <div class="mb-3">
+      <label for="6" class="form-label">Status</label>
+      <select title="{{Posts.status}}" name="status" id="status" class="form-select" aria-label="Default select example">
+          <option value="public">Công Khai</option>
+          <option value="draft">Lưu Nháp</option>
+      </select>
+    </div>
+    <div class="mb-3">
+      <label for="7" class="form-label">Avatar</label>
+      <input disabled value="{{Posts.avatar}}" name="avatar" type="text" class="form-control" id="7" placeholder="link ảnh">
+    </div>
+    <div class="col-auto">
+      <button type="submit" class="btn btn-primary mb-3">Sửa</button>
+    </div>
+</form>
+
+<script>
+  let element = document.getElementById("status");
+  let s = element.title;
+  element.value = s;
+</script>

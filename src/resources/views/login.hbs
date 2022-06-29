@@ -1,0 +1,23 @@
+  <form method="post" action="/login">
+  <div class="mb-3">
+    <label for="exampleInputEmail1" class="form-label">Email</label>
+    <input name="email" type="email" class="form-control" id="email" aria-describedby="emailHelp">
+    <div id="emailHelp" class="form-text">Chúng tôi không chia sẻ email này cho bất kỳ ai.</div>
+  </div>
+  <div class="mb-3">
+    <label for="exampleInputPassword1" class="form-label">Mật Khẩu</label>
+    <input name="password" type="password" class="form-control" id="password">
+  </div>
+  <div class="mb-3">
+    <label>Bạn chưa có tài khoản? <a href="/signup">Đăng ký</a></label>
+  </div>
+  <button type="submit" class="btn btn-primary">Đăng Nhập</button>
+</form>
+
+{{#if Show}}
+<div style="margin-top: 10px;">
+  <div class="alert alert-danger" role="alert">
+  Sai thông tin đăng nhập!
+</div>
+</div>
+{{/if}}
